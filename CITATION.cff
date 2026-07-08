@@ -1,0 +1,65 @@
+cff-version: 1.2.0
+
+message: "If you use ASTB in your research, please cite the associated conference paper."
+
+title: "ASTB: Adversarial Short-Text Benchmark"
+
+type: dataset
+
+authors:
+  - family-names: "Banodhiya"
+    given-names: "Ajay Kumar"
+
+  - family-names: "Singh"
+    given-names: "Durgesh"
+
+  - family-names: "Pandey"
+    given-names: "Avinash Chandra"
+
+version: "1.0"
+
+license: "CC-BY-4.0"
+
+repository-code: "https://github.com/<YOUR_USERNAME>/<YOUR_REPOSITORY>"
+
+abstract: >
+  ASTB is a benchmark dataset for evaluating the robustness of text
+  classification models against adversarial short-text examples generated
+  using multiple perturbation strategies and paraphrasing techniques.
+
+keywords:
+  - NLP
+  - Adversarial NLP
+  - Adversarial Text
+  - Benchmark
+  - Short Text
+  - Text Classification
+  - TextFooler
+  - Robustness
+  - Paraphrasing
+
+preferred-citation:
+  type: paper-conference
+
+  title: "Adversarial Short-Text Benchmark Generation Using Multi-Perturbation and Paraphrasing Techniques"
+
+  authors:
+    - family-names: "Banodhiya"
+      given-names: "Ajay Kumar"
+
+    - family-names: "Singh"
+      given-names: "Durgesh"
+
+    - family-names: "Pandey"
+      given-names: "Avinash Chandra"
+
+  year: 2026
+
+  conference:
+    name: "International Conference on Contemporary Computing (IC3 2026)"
+
+  publisher: "IEEE"
+
+  status: "Accepted"
+
+  note: "Accepted for publication. Complete bibliographic information and DOI will be added after official publication."
